@@ -57,7 +57,7 @@
     {
       "име": "парк",
       "брой": 3,
-      "цвят": "green",
+      "цвят": "#95e4c6",
       "image": "",
       "image-opacity": 0.5,
       "описание": "Тази е няква още по-друга от възможните плочки"
@@ -82,8 +82,8 @@
       "име": "hotel",
       "брой": 5,
       "цвят": "skyblue",
-      "image": "https://mbtskoudsalg.com/images/hotel-icon-png-4.png",
-      "image-opacity": 0.25,
+      "image": "https://cdn4.iconfinder.com/data/icons/map-pins-2/256/15-512.png",
+      "image-opacity": 1,
       "описание": "Тази е с картинка с прозрачност"
     },
     {
@@ -92,7 +92,7 @@
       "цвят": "skyblue",
       "image": "https://openclipart.org/download/216806/office-building.svg",
       "image-opacity": 1,
-      "описание": "Тази е с картинка с прозрачност"
+      "описание": "И тази е с картинка с прозрачност"
     },
     {
       "име": "clinic",
@@ -100,7 +100,7 @@
       "цвят": "white",
       "image": "https://cdn2.iconfinder.com/data/icons/medical-icons-set-simple/512/health_sign-2-512.png",
       "image-opacity": 1,
-      "описание": "И тази е с картинка с прозрачност"
+      "описание": "Тази е с картинка с прозрачност и подходящ цвят за фон"
     }
   ],
   "играчи": [
