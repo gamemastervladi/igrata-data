@@ -41,7 +41,7 @@
   "плочки": [
     {
       "име": "blu",
-      "брой": 40,
+      "брой": 1,
       "цвят": "skyblue",
       "image": "",
       "image-opacity": 0.5,
@@ -49,7 +49,7 @@
     },
     {
       "име": "по-синьо",
-      "брой": 15,
+      "брой": 1,
       "цвят": "#9BE",
       "image": "",
       "image-opacity": 0.5,
@@ -57,7 +57,7 @@
     },
     {
       "име": "парк",
-      "брой": 3,
+      "брой": 2,
       "цвят": "#95e4c6",
       "image": "",
       "image-opacity": 0.5,
@@ -73,7 +73,7 @@
     },
     {
       "име": "pic",
-      "брой": 4,
+      "брой": 1,
       "цвят": "orange",
       "image": "https://cdn.torontolife.com/wp-content/uploads/2017/08/toronto-house-for-sale-53-burnhamthorpe-crescent-1-803x603.jpg",
       "image-opacity": 1,
