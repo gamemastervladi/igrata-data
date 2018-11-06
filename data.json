@@ -40,19 +40,17 @@
   },
   "плочки": [
     {
-      "име": "blu",
+      "име": "Кафе",
       "брой": 1,
       "цвят": "skyblue",
-      "image": "",
-      "image-opacity": 0.5,
-      "описание": "Тази е една от възможните плочки"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_cup_icon.svg/2000px-Coffee_cup_icon.svg.png",
+      "описание": "Кафе"
     },
     {
       "име": "по-синьо",
       "брой": 1,
       "цвят": "#9BE",
       "image": "",
-      "image-opacity": 0.5,
       "описание": "Тази е няква друга от възможните плочки"
     },
     {
@@ -60,7 +58,6 @@
       "брой": 2,
       "цвят": "#95e4c6",
       "image": "",
-      "image-opacity": 0.5,
       "описание": "Тази е няква още по-друга от възможните плочки"
     },
     {
@@ -72,51 +69,45 @@
       "описание": "Тайна"
     },
     {
-      "име": "pic",
+      "име": "Бърза храна",
       "брой": 1,
       "цвят": "orange",
-      "image": "https://cdn.torontolife.com/wp-content/uploads/2017/08/toronto-house-for-sale-53-burnhamthorpe-crescent-1-803x603.jpg",
-      "image-opacity": 1,
-      "описание": "Няква с картинка"
+      "image": "http://icons.iconarchive.com/icons/sonya/swarm/256/Fast-Food-icon.png",
+      "описание": "Бърза храна"
     },
     {
-      "име": "pic2",
-      "брой": 2,
-      "цвят": "orange",
-      "image": "https://i0.wp.com/balaji-group.in/wp-content/uploads/2018/01/2.jpg",
-      "image-opacity": 0.5,
-      "описание": "Няква с картинка пак"
+      "име": "Салон за Красота",
+      "брой": 1,
+      "цвят": "skyblue",
+      "image": "http://greentral.com/wp-content/uploads/2018/04/salon-clipart-hairdresser-icon-hair-dryer-clipart-beauty-salon-clipart-science-clipart.png",
+      "описание": "Салон за Красота"
     },
     {
       "име": "hotel",
-      "брой": 5,
+      "брой": 1,
       "цвят": "skyblue",
       "image": "https://cdn4.iconfinder.com/data/icons/map-pins-2/256/15-512.png",
-      "image-opacity": 1,
       "описание": "Тази е с картинка с прозрачност"
     },
     {
-      "име": "office",
-      "брой": 3,
+      "име": "Офиси - Работа 01",
+      "брой": 1,
       "цвят": "skyblue",
       "image": "https://openclipart.org/download/216806/office-building.svg",
-      "image-opacity": 1,
       "описание": "И тази е с картинка с прозрачност"
     },
     {
-      "име": "clinic",
+      "име": "Аптека",
       "брой": 1,
-      "цвят": "white",
+      "цвят": "orange",
       "image": "https://lh3.googleusercontent.com/nsj0HbLZXGI84IhPpZ4QVb-0U6GDHUMr4f3iImD2ALcaCrO21cnf8A2BB4XNEfNGwA3-",
-      "image-opacity": 1,
       "описание": "Тази е с картинка с прозрачност и подходящ цвят за фон"
     },
     {
       "име": "пицария",
       "брой": 1,
-      "цвят": "#76ff03",
+      "цвят": "skyblue",
       "image": "http://chittagongit.com//images/pizza-icon/pizza-icon-15.jpg",
-      "image-opacity": 1,
       "описание": "Пицария - ляля"
     }
   ],
