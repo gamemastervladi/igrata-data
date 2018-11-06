@@ -110,6 +110,14 @@
       "image": "https://cdn2.iconfinder.com/data/icons/medical-icons-set-simple/512/health_sign-2-512.png",
       "image-opacity": 1,
       "описание": "Тази е с картинка с прозрачност и подходящ цвят за фон"
+    },
+    {
+      "име": "пицария",
+      "брой": 10,
+      "цвят": "#95e4c6",
+      "image": "http://chittagongit.com//images/pizza-icon/pizza-icon-15.jpg",
+      "image-opacity": 1,
+      "описание": "Пицария - ляля"
     }
   ],
   "играчи": [
