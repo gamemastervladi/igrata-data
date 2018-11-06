@@ -47,24 +47,24 @@
       "описание": "Кафе"
     },
     {
-      "име": "по-синьо",
+      "име": "Кино",
       "брой": 1,
-      "цвят": "#9BE",
-      "image": "",
+      "цвят": "orange",
+      "image": "https://cdn3.iconfinder.com/data/icons/flaturici-set-1/512/glasses3d-512.png",
       "описание": "Тази е няква друга от възможните плочки"
     },
     {
-      "име": "парк",
-      "брой": 2,
-      "цвят": "#95e4c6",
-      "image": "",
+      "име": "Бар",
+      "брой": 1,
+      "цвят": "orange",
+      "image": "https://cdn3.iconfinder.com/data/icons/food-and-drinks-icons/512/Cocktail-512.png",
       "описание": "Тази е няква още по-друга от възможните плочки"
     },
     {
-      "име": "парк-с-ключ",
+      "име": "Болница",
       "брой": 1,
-      "цвят": "#95e4c6",
-      "image": "https://lh3.googleusercontent.com/_9i94m3rXZz6WDxOe1bt7egyZbi0h639WVjDZvwdis4x-FgBa6xEoV1lx6lqZ-7XaXoPlfbb3tqZh62djH_U",
+      "цвят": "red",
+      "image": "https://cdn2.iconfinder.com/data/icons/map-locations-flat-pixel-perfect/64/pin-map-location-03-512.png",
       "image-opacity": 1,
       "описание": "Тайна"
     },
@@ -92,7 +92,7 @@
     {
       "име": "Офиси - Работа 01",
       "брой": 1,
-      "цвят": "skyblue",
+      "цвят": "green",
       "image": "https://openclipart.org/download/216806/office-building.svg",
       "описание": "И тази е с картинка с прозрачност"
     },
