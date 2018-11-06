@@ -107,14 +107,14 @@
       "име": "clinic",
       "брой": 1,
       "цвят": "white",
-      "image": "https://cdn2.iconfinder.com/data/icons/medical-icons-set-simple/512/health_sign-2-512.png",
+      "image": "https://lh3.googleusercontent.com/nsj0HbLZXGI84IhPpZ4QVb-0U6GDHUMr4f3iImD2ALcaCrO21cnf8A2BB4XNEfNGwA3-",
       "image-opacity": 1,
       "описание": "Тази е с картинка с прозрачност и подходящ цвят за фон"
     },
     {
       "име": "пицария",
       "брой": 1,
-      "цвят": "#95e4c6",
+      "цвят": "#76ff03",
       "image": "http://chittagongit.com//images/pizza-icon/pizza-icon-15.jpg",
       "image-opacity": 1,
       "описание": "Пицария - ляля"
@@ -258,5 +258,5 @@
       ]
     }
   ],
-  "тетрадка": "Тук ще си записвам:\n- правилата, действията и лимитациите в играта\n- основните ѝ цели\n- случайни идеи\n- преимущества и кусури за изглаждане на текущата концепция\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  "тетрадка": "Тук ще си записвам:\n- правилата, действията и лимитациите в играта\n- основните ѝ цели\n- случайни идеи\n- преимущества и кусури за изглаждане на текущата концепция\n----\nИмоти цветове:\n1 - #76ff03\n2 - #00e5ff\n3 - #00b0ff\n4 - #d500f9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 }
