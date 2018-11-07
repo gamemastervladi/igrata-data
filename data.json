@@ -40,89 +40,47 @@
   },
   "плочки": [
     {
-      "име": "Кафе",
-      "брой": 1,
+      "име": "Светло сини",
+      "брой": 25,
       "цвят": "skyblue",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_cup_icon.svg/2000px-Coffee_cup_icon.svg.png",
-      "описание": "Кафе"
+      "image": "",
+      "описание": "25 Светло сини"
     },
     {
-      "име": "Кино",
-      "брой": 1,
+      "име": "Оранжеви",
+      "брой": 15,
       "цвят": "orange",
-      "image": "https://cdn3.iconfinder.com/data/icons/flaturici-set-1/512/glasses3d-512.png",
-      "описание": "Тази е няква друга от възможните плочки"
+      "image": "",
+      "описание": "15 оранжеви"
     },
     {
-      "име": "Бар",
-      "брой": 1,
-      "цвят": "orange",
-      "image": "https://cdn3.iconfinder.com/data/icons/food-and-drinks-icons/512/Cocktail-512.png",
-      "описание": "Тази е няква още по-друга от възможните плочки"
+      "име": "Зелени",
+      "брой": 10,
+      "цвят": "green",
+      "image": "",
+      "описание": "Зелени 10"
     },
     {
-      "име": "Болница",
-      "брой": 1,
+      "име": "Червени",
+      "брой": 4,
       "цвят": "red",
-      "image": "https://cdn2.iconfinder.com/data/icons/map-locations-flat-pixel-perfect/64/pin-map-location-03-512.png",
+      "image": "",
       "image-opacity": 1,
-      "описание": "Тайна"
-    },
-    {
-      "име": "Бърза храна",
-      "брой": 1,
-      "цвят": "orange",
-      "image": "http://icons.iconarchive.com/icons/sonya/swarm/256/Fast-Food-icon.png",
-      "описание": "Бърза храна"
-    },
-    {
-      "име": "Салон за Красота",
-      "брой": 1,
-      "цвят": "skyblue",
-      "image": "http://greentral.com/wp-content/uploads/2018/04/salon-clipart-hairdresser-icon-hair-dryer-clipart-beauty-salon-clipart-science-clipart.png",
-      "описание": "Салон за Красота"
+      "описание": "4 червени"
     },
     {
       "име": "Парк",
       "брой": 1,
       "цвят": "white",
-      "image": "http://icons.iconarchive.com/icons/sonya/swarm/256/Park-icon.png",
-      "описание": "Свободна зона"
+      "image": "",
+      "описание": "2 Свободна зона"
     },
     {
       "име": "Офиси - Работа 01",
       "брой": 1,
       "цвят": "lime",
-      "image": "https://openclipart.org/download/216806/office-building.svg",
-      "описание": "И тази е с картинка с прозрачност"
-    },
-    {
-      "име": "Аптека",
-      "брой": 1,
-      "цвят": "orange",
-      "image": "https://lh3.googleusercontent.com/nsj0HbLZXGI84IhPpZ4QVb-0U6GDHUMr4f3iImD2ALcaCrO21cnf8A2BB4XNEfNGwA3-",
-      "описание": "Тази е с картинка с прозрачност и подходящ цвят за фон"
-    },
-    {
-      "име": "Ресторант 01",
-      "брой": 1,
-      "цвят": "green",
-      "image": "http://icons-for-free.com/free-icons/png/512/1886929.png",
-      "описание": "Ресторант 01"
-    },
-    {
-      "име": "Ресторант 02",
-      "брой": 1,
-      "цвят": "green",
-      "image": "https://image.flaticon.com/icons/png/512/242/242452.png",
-      "описание": "Ресторант 02"
-    },
-    {
-      "име": "пицария",
-      "брой": 1,
-      "цвят": "skyblue",
-      "image": "http://chittagongit.com//images/pizza-icon/pizza-icon-15.jpg",
-      "описание": "Пицария - ляля"
+      "image": "",
+      "описание": "Офиси - Работа 01"
     }
   ],
   "играчи": [
